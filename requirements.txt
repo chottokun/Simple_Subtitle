@@ -1,0 +1,8 @@
+streamlit
+openai
+moviepy
+srt
+ffmpeg-python
+python-dotenv
+faster-whisper
+pandas
